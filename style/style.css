@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background: lightskyblue;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  font-size: 23px;
+}
+
+p {
+  font-size: 25px;
+}
